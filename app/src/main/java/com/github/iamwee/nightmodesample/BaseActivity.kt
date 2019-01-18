@@ -4,6 +4,7 @@ import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
+import com.github.iamwee.nightmodesample.utils.DayNightUtils
 
 
 @SuppressLint("Registered")

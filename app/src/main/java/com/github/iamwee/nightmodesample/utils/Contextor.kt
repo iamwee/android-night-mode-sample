@@ -1,4 +1,4 @@
-package com.github.iamwee.nightmodesample
+package com.github.iamwee.nightmodesample.utils
 
 import android.annotation.SuppressLint
 import android.content.Context

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".FirstPageActivity">
+
+    <ImageView
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ic_android_placeholder"
+        android:layout_width="80dp"
+        android:layout_height="80dp"/>
+
+    <TextView
+        android:id="@+id/textViewContent"
+        android:text="Suspendisse malesuada blandit velit. Pellentesque a nibh eget justo malesuada tempus. Donec vitae metus volutpat, ornare orci vel, euismod neque. Nullam et lectus et est laoreet eleifend. Vestibulum vitae justo et augue venenatis feugiat eu porta augue. Cras et metus odio. Nullam porta quam sed rutrum tristique. In congue tortor et dictum varius. Curabitur rhoncus nisl vitae tellus condimentum, ac consequat nibh ultrices.
+Suspendisse malesuada blandit velit. Pellentesque a nibh eget justo malesuada tempus. Donec vitae metus volutpat, ornare orci vel, euismod neque. Nullam et lectus et est laoreet eleifend. Vestibulum vitae justo et augue venenatis feugiat eu porta augue. Cras et metus odio. Nullam porta quam sed rutrum tristique. In congue tortor et dictum varius. Curabitur rhoncus nisl vitae tellus condimentum, ac consequat nibh ultrices.
+Suspendisse malesuada blandit velit. Pellentesque a nibh eget justo malesuada tempus. Donec vitae metus volutpat, ornare orci vel, euismod neque. Nullam et lectus et est laoreet eleifend. Vestibulum vitae justo et augue venenatis feugiat eu porta augue. Cras et metus odio. Nullam porta quam sed rutrum tristique. In congue tortor et dictum varius. Curabitur rhoncus nisl vitae tellus condimentum, ac consequat nibh ultrices.
+Suspendisse malesuada blandit velit. Pellentesque a nibh eget justo malesuada tempus. Donec vitae metus volutpat, ornare orci vel, euismod neque. Nullam et lectus et est laoreet eleifend. Vestibulum vitae justo et augue venenatis feugiat eu porta augue. Cras et metus odio. Nullam porta quam sed rutrum tristique. In congue tortor et dictum varius. Curabitur rhoncus nisl vitae tellus condimentum, ac consequat nibh ultrices.
+Suspendisse malesuada blandit velit. Pellentesque a nibh eget justo malesuada tempus. Donec vitae metus volutpat, ornare orci vel, euismod neque. Nullam et lectus et est laoreet eleifend. Vestibulum vitae justo et augue venenatis feugiat eu porta augue. Cras et metus odio. Nullam porta quam sed rutrum tristique. In congue tortor et dictum varius. Curabitur rhoncus nisl vitae tellus condimentum, ac consequat nibh ultrices.
+Suspendisse malesuada blandit velit. Pellentesque a nibh eget justo malesuada tempus. Donec vitae metus volutpat, ornare orci vel, euismod neque. Nullam et lectus et est laoreet eleifend. Vestibulum vitae justo et augue venenatis feugiat eu porta augue. Cras et metus odio. Nullam porta quam sed rutrum tristique. In congue tortor et dictum varius. Curabitur rhoncus nisl vitae tellus condimentum, ac consequat nibh ultrices."
+        android:layout_width="wrap_content"
+        android:layout_margin="16dp"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>
